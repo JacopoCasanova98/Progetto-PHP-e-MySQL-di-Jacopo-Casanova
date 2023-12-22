@@ -11,4 +11,4 @@ To install and run the project locally, follow the steps below:
 3. Please be sure to have php and MySQL installed on your computer
 
 
-### Test the server with the database!!
+### Test the peroject with the database!
